@@ -22,3 +22,8 @@ header{
     padding: 20px;
 }
 
+img.portrait {
+    width: 60%;
+    height: auto;
+    padding-top: 15px;
+}
